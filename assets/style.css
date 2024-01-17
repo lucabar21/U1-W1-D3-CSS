@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #333333;
+}
+
+#logo {
+  width: 230px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+div.payoff {
+  background-color: #fefbf1;
+  padding: 1rem;
+  border-top: 1px solid #ffd977;
+  font-size: 0.75;
+  color: #004d4d;
+  margin-bottom: 3.5rem;
+}
+
+.content {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+}
+
+.par-header {
+  text-align: center;
+}
+.content video {
+  width: 100%;
+  border-radius: 5%;
+  box-shadow: #333333;
+}
+#author {
+  display: block;
+  color: #999999;
+  text-align: center;
+  margin-top: 1rem;
+}
+#feautured {
+  border-left: solid #ffd977;
+  padding-left: 1rem;
+  margin-top: 2%;
+}
+
+#feautured span {
+  color: #bc460f;
+  display: block;
+}
+
+#feautured a,
+#link {
+  color: #004d4d;
+}
+
+.ing {
+  margin-top: 3rem;
+}
+
+.ing p {
+  font-weight: bold;
+}
+/* .ing ol li p {
+  font-weight: bold;
+} NON FUNZIONA! */
+
+.ing-header {
+  border-bottom: 1px solid #c5f3f3;
+  margin-bottom: 2rem;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+footer {
+  background-color: #fefbf1;
+  padding: 1rem;
+  border-top: 1px solid #ffd977;
+  font-size: 1.2rem;
+  color: #004d4d;
+}
+
+.recipe-title {
+  font-size: xx-large;
+}
